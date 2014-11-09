@@ -1,5 +1,8 @@
-import tema3.exception.*;
-import tema3.classes.*;
+package tema3;
+
+import tema3.classes.Square;
+//import tema3.exception.*;
+//import tema3.classes.*;
 
 /**
  * @author Razvan
